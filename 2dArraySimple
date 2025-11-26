@@ -1,4 +1,4 @@
-public class Array2d {
+public class 2dArraySimple {
         public static  void main (String [] args){
             int[][] flats = new int [2][3];
             flats [0][0]= 101;
